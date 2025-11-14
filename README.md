@@ -4,8 +4,7 @@
 - React with Typescript
 
 # Third-Party Libraries
-- Matplotlib
-- Spotify API
+- colorthief
 
 
 # Functionality 
