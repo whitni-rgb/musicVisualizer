@@ -1,6 +1,9 @@
 react
-matplotlib
-pandas
-node 
 
+#Python libraries
+# matplotlib
+# Pillow
+# pandas
+# flask
+# flask_cors
 
